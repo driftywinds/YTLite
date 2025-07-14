@@ -300,8 +300,8 @@ jobs:
       - name: Upload to GitHub Releases
         uses: softprops/action-gh-release@v2.0.1
         with:
-          name: YTLite v${{ inputs.tweak_version }} (${{ github.run_number }})
-          files: YTLite_${{ inputs.tweak_version }}.ipa
+          name: YouTubePlus v${{ inputs.tweak_version }} (${{ github.run_number }})
+          files: YouTubePlus_${{ inputs.tweak_version }}.ipa
           draft: true
 
       - name: Output Release URL
