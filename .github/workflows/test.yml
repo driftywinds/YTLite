@@ -1,4 +1,4 @@
-name: Create YouTube Plus app
+name: Create YTLite + Tweaks
 
 on:
   workflow_dispatch:
