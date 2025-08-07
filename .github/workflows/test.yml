@@ -137,7 +137,7 @@ jobs:
       - name: Download YouTube Plus
         id: download_ytp
         run: |
-          deb_url="https://files.drifty.win/.blud/blud.deb"
+          deb_url="https://files.drifty.win/.hid/bl.deb"
           wget "$deb_url" --no-verbose -O ${{ github.workspace }}/ytplus.deb
 
       - name: Download YouTube
