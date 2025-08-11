@@ -9,7 +9,6 @@ A flexible enhancer for YouTube on iOS, featuring over hundred customizable opti
 - [How to build a YouTube Plus app using GitHub Actions](#how-to-build-a-youtube-plus-app-using-github-actions)
 - [Supported YouTube Version](#supported-youtube-version)
 - [Tweak Integration Details](#tweak-integration-details)
-- [FAQ (Frequently Asked Questions)](#faq-frequently-asked-questions)
 
 ## Screenshots
 <table>
@@ -55,6 +54,8 @@ A flexible enhancer for YouTube on iOS, featuring over hundred customizable opti
 ## FAQ
 - [🇺🇸 English FAQ](FAQs/FAQ_EN.md)
 - [🇷🇺 ЧаВо на Русском](FAQs/FAQ_RU.md)
+- [🇮🇹 FAQ in Italiano](FAQs/FAQ_IT.md)
+- [🇵🇱 FAQ po polsku](FAQs/FAQ_PL.md)
 
 ## Reviews
 Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbreak.com/blog/youtube-plus/
@@ -102,9 +103,9 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 
 ## Supported YouTube Version
 <ul>
-   <li><strong>Latest confirmed:</strong> <em>20.29.3</em></li>
-   <li><strong>Date tested:</strong> <em>July 25, 2025</em></li>
-   <li><strong>YouTube Plus:</strong> <em>5.2 beta 2</em></li>
+   <li><strong>Latest confirmed:</strong> <em>20.32.4</em></li>
+   <li><strong>Date tested:</strong> <em>Aug 11, 2025</em></li>
+   <li><strong>YouTube Plus:</strong> <em>5.2 beta 3</em></li>
 </ul>
 
 ## Tweak Integration Details
